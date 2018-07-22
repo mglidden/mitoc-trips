@@ -3,3 +3,4 @@
 *.py[cod]
 oauth_credentials.json
 celerybeat-schedule
+/.env
